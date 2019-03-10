@@ -9,3 +9,5 @@ dependencies:
   - statsmodels==0.9.0
   - nltk==3.4
   - tqdm==4.31.1
+  - jupyterhub==0.9.4
+  - jupyterlab==0.35.4
